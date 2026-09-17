@@ -1,14 +1,18 @@
-# Welcome to your Lovable project
+# TaskNova: Your Stellar Task Manager
+
+Build a complete Task Management Application called TaskNova. Use HTML/CSS/JavaScript for the frontend and Node.js/Express with MongoDB for the backend. Include registration, login, JWT authentication, task CRUD, pending/completed status, due dates, search, filters and responsive mobile design. Do not use React.
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://tasknova-bright-future.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/90978aaa-3dc3-4e0b-b44d-a5f13970a0c7).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +24,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
